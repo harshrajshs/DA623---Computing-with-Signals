@@ -1,6 +1,6 @@
 # Clustering-Based Spectrum Sensing with OFDM Modulation for Cognitive Radio Networks
 
-*Author: [Your Name]*
+*Author: [Harsh Raj]*
 
 ---
 
@@ -10,15 +10,20 @@ The rapid expansion of wireless communications has resulted in increased spectru
 
 ---
 
-## Multimodal Learning: Historical Perspective
+## Historical Perspective
 
-Traditional spectrum sensing methods (energy detection, matched filtering, cyclostationary detection) have limitations, particularly under noise uncertainty and with unknown signals. Recent advances in multimodal learning combine multiple data modalities-such as signal energy, modulation patterns, and spatial features-to improve sensing robustness. Unsupervised learning, like clustering, is increasingly applied for adaptive, threshold-free signal detection, aligning with trends in multimodal AI where data-driven approaches outperform hand-crafted methods.
+Traditional spectrum sensing methods (energy detection, matched filtering, cyclostationary detection) have limitations, particularly under noise uncertainty and with unknown signals. Unsupervised learning, like clustering, is increasingly applied for adaptive, threshold-free signal detection, aligning with trends in  AI where data-driven approaches outperform hand-crafted methods.
 
 ---
 
 ## What I Learned
 
 - Gained hands-on experience with OFDM modulation/demodulation using FFT/IFFT.
+  ### 📺 **FFT and IFFT Algorithm Explanation**
+
+  *For a clear visual and conceptual explanation of the FFT and IFFT algorithms, you can refer to this helpful video:*
+  
+  [![FFT and IFFT Algorithm](http://img.youtube.com/vi/h7apO7q16V0/0.jpg)](https://www.youtube.com/watch?v=h7apO7q16V0)
 - Understood the limitations of basic energy detection and the benefits of adaptive, data-driven approaches.
 - Applied KMeans clustering to sliding window energy values, enabling unsupervised, threshold-free spectrum sensing.
 - Used visualization and ROC analysis to evaluate sensing performance.
