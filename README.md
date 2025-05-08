@@ -127,7 +127,7 @@ pip install numpy matplotlib scikit-learn
 ## 📬 Contact
 
 For questions or collaboration opportunities, feel free to reach out:
-📧 **[your-email@example.com](mailto:your-email@example.com)**
+📧 **[harsh.raj@iitg.ac.in](mailto:harsh.raj@iitg.ac.in)**
 
 ---
 
