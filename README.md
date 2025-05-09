@@ -71,7 +71,6 @@ Below is the simplified **transmitter-receiver chain** of an OFDM system:
 
 🔗 Access the full code in [`main.ipynb`](main.ipynb)
 
-<details>
 <summary>📊 Sample Output: Energy & Clustering</summary>
 
 ### 🎵 Modulated Signal
@@ -90,7 +89,7 @@ Below is the simplified **transmitter-receiver chain** of an OFDM system:
 
 ![Energy and Clustering Visualization](sample_cluster_output.png)
 
-</details>
+
 
 ---
 
