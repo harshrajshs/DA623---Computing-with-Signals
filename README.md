@@ -89,7 +89,9 @@ Below is the simplified **transmitter-receiver chain** of an OFDM system:
 
 ![Energy and Clustering Visualization](sample_cluster_output.png)
 
+### 📈 ROC Curve
 
+![ROC Curve](roc.png)
 
 ---
 
