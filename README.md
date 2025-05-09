@@ -74,6 +74,20 @@ Below is the simplified **transmitter-receiver chain** of an OFDM system:
 <details>
 <summary>📊 Sample Output: Energy & Clustering</summary>
 
+### 🎵 Modulated Signal
+
+![Modulated Signal](1.png)
+
+### 📣 Received Signal
+
+![Received Signal](2.png)
+
+### ⚡ Energy per Sliding Window
+
+![Energy per Window](3.png)
+
+### 📊 Energy and Clustering Visualization
+
 ![Energy and Clustering Visualization](sample_cluster_output.png)
 
 </details>
